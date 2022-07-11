@@ -1,0 +1,45 @@
+.App{
+    display: flex;
+    margin: auto;
+    width: 70%;
+}
+.Left{
+    flex: 1;
+    background-color: gray;
+}
+.Avatar{
+    margin: auto;
+}
+.contact{
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+.Title{
+    color: black;
+    width: 70%;
+    margin: 20px 0 0 20px;
+}
+.Text-Title{
+    margin: 20px 0 0 20px;
+}
+.text{
+    width: 40%;
+    margin: auto;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.List{
+    width: 50%;
+    margin: auto;
+}
+.Right{
+    flex: 2;
+}
+.banner{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
